@@ -1,5 +1,5 @@
-![скриншотик] (/img/gitPushLab3_FIO.png)
-![скриншотик](/img/headersCommitLab3_FIO.png)
+![скриншотик1] (/img/gitPushLab3_FIO.png)
+![скриншотик2](/img/headersCommitLab3_FIO.png)
 [GitHub] (https://github.com/g81433416-netizen/Lab3-MarkdownLaTeX_FIO)
 [Markdown] (https://www.markdownguide.org/ "Перерйти на официальный сайт МаркДаунов")
 [LordFilm] (https://nn.lordfilm133.ru/sf/actors:%d0%a0%d0%b8%d0%b7+%d0%a3%d0%b8%d0%b7%d0%b5%d1%80%d1%81%d0%bf%d1%83%d0%bd "Блондинка в законе 2 смотреть онлайн без смс и регистрации")
